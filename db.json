@@ -483,5 +483,37 @@
       "email": "afeehant@howstuffworks.com",
       "avatar": "http://dummyimage.com/119x131.png/ff4444/ffffff"
     }
+  ],
+  "reactions": [
+    {
+      "id": 1,
+      "name": "Like",
+      "emoji": "👍"
+    },
+    {
+      "id": 2,
+      "name": "Love",
+      "emoji": "❤️"
+    },
+    {
+      "id": 3,
+      "name": "Haha",
+      "emoji": "😂"
+    },
+    {
+      "id": 4,
+      "name": "Wow",
+      "emoji": "😮"
+    },
+    {
+      "id": 5,
+      "name": "Sad",
+      "emoji": "😥"
+    },
+    {
+      "id": 6,
+      "name": "Angry",
+      "emoji": "😡"
+    }
   ]
 }
